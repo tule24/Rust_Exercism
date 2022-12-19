@@ -1,0 +1,13 @@
+d:\Substrate\Rust\Exercism\target\debug\deps\time_macros-292a7bbe2ec24b08.dll: C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\lib.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\quote.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\date.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\datetime.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\error.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\helpers\mod.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\offset.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\time.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\to_tokens.rs
+
+d:\Substrate\Rust\Exercism\target\debug\deps\time_macros-292a7bbe2ec24b08.d: C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\lib.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\quote.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\date.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\datetime.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\error.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\helpers\mod.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\offset.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\time.rs C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\to_tokens.rs
+
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\lib.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\quote.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\date.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\datetime.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\error.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\helpers\mod.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\offset.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\time.rs:
+C:\Users\lecon\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-0.2.6\src\to_tokens.rs:
